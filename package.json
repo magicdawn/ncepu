@@ -1,0 +1,25 @@
+{
+  "name": "ncepu",
+  "version": "0.0.1",
+  "description": "华电专用",
+  "main": "index.js",
+  "bin": "./bin/ncepu",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:magicdawn/ncepu.git"
+  },
+  "keywords": [
+    "ncepu",
+    "huadian",
+    "baoding"
+  ],
+  "author": "magicdawn",
+  "license": "ISC",
+  "dependencies": {
+    "open": "0.0.5",
+    "colors": "^0.6.2"
+  }
+}
