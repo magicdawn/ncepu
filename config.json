@@ -1,0 +1,28 @@
+{
+	"urls": {
+		"home": "http://ncepubd.tk/",
+
+		"vod": "http://v.ncepubd.tk/",
+		"down": "http://d.ncepubd.tk/",
+		"bbs": "http://www.ncepubbs.cn/",
+		"mybits": "http://m.ncepubd.tk/",
+
+		"jiaowuchu": "http://j.ncepubd.tk/",
+		"library": "http://202.206.214.254:8080/opac/",
+		"chachengji": "http://59.67.225.73/te/"
+	},
+	"shorts": {
+		"v": "vod",
+		"d": "down",
+		"b": "bbs",
+		"m": "mybits",
+
+		"j": "jiaowuchu",
+		"l": "library",
+		"c": "chachengji",
+
+		"jiao": "j",
+		"lib": "l",
+		"cha": "c"
+	}
+}
