@@ -1,28 +1,37 @@
 {
-	"urls": {
-		"home": "http://ncepubd.tk/",
+	"home": "http://ncepubd.tk/",
 
-		"vod": "http://v.ncepubd.tk/",
-		"down": "http://d.ncepubd.tk/",
-		"bbs": "http://www.ncepubbs.cn/",
-		"mybits": "http://m.ncepubd.tk/",
+	"v": "vod",
+	"vod": "http://v.ncepubd.tk/",
 
-		"jiaowuchu": "http://j.ncepubd.tk/",
-		"library": "http://202.206.214.254:8080/opac/",
-		"chachengji": "http://59.67.225.73/te/"
-	},
-	"shorts": {
-		"v": "vod",
-		"d": "down",
-		"b": "bbs",
-		"m": "mybits",
+	"d": "down",
+	"down": "http://d.ncepubd.tk/",
 
-		"j": "jiaowuchu",
-		"l": "library",
-		"c": "chachengji",
+	"b": "bbs",
+	"bbs": "http://www.ncepubbs.cn/",
 
-		"jiao": "j",
-		"lib": "l",
-		"cha": "c"
-	}
+	"m": "mybits",
+	"mybits": "http://m.ncepubd.tk/",
+
+	"j": "jiaowuchu",
+	"jiao": "jiaowuchu",
+	"jiaowuchu": "http://j.ncepubd.tk/",
+
+
+	"library": "http://202.206.214.254:8080/opac/",
+	"l": "library",
+	"lib": "library",
+	"tushuguan" : "library",
+	"tu":"library",
+	"t":"tushuguan",
+
+	"c": "chachengji",
+	"cha": "chachengji",
+	"chachengji": "http://59.67.225.73/te/",
+
+	"tieba":"http://tieba.baidu.com/f?kw=华北电力大学保定",
+	"tie":"tieba",
+	"ba":"tieba",
+
+	"fankui": "http://tieba.baidu.com/f?kw=华北电力大学保定"
 }
