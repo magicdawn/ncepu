@@ -1,5 +1,7 @@
 #ncepu大华电专用 命令行工具
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/magicdawn/ncepu.svg)](https://greenkeeper.io/)
+
 其实这个东西是个网址导航
 #1.下载安装
 ```
